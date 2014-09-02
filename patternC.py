@@ -1,8 +1,5 @@
 """
 Anaelisa Aburto
-001440351
-VSFX 705 - Programming Concepts for VFX
-Professor Deborah R. Fowler
 Quilt Project
 Pattern C
 
